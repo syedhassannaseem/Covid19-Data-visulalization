@@ -1,5 +1,8 @@
 # 🦠 COVID-19 Data Visualization Project
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![VS Code](https://img.shields.io/badge/VS-Code-007ACC) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-green)
+
+
 ## 📌 Overview
 This project focuses on **analyzing and visualizing COVID-19 data** using Python libraries.  
 It aims to understand the spread, recovery, and fatality trends of the pandemic through different charts and graphs.  
